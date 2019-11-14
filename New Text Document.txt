@@ -1,1 +1,3 @@
-ghghggh
+1)Validate if Response Body Contains a Specific String
+
+http://www.appsdeveloperblog.com/rest-assured-evaluate-json-response-body/
