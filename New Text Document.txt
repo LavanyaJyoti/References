@@ -1,3 +1,14 @@
 1)Validate if Response Body Contains a Specific String
 
 http://www.appsdeveloperblog.com/rest-assured-evaluate-json-response-body/
+
+2)Dynamic xapth links
+
+https://www.addwebsolution.com/blog/dynamic-xpath-in-selenium-webdriver-complete-guide
+
+https://www.softwaretestingmaterial.com/dynamic-xpath-in-selenium/
+
+https://youtu.be/iIPy7KcG4fI
+
+Youtube link on xpath navven automation labs:
+https://www.google.com/search?q=xpath+naveen+automation+labs&safe=active&rlz=1C1GCEB_enIN820IN820&sxsrf=ACYBGNT95HdCsyZ8ZSI5JmwVDxrosFkNsg:1573795951847&source=lnms&tbm=vid&sa=X&ved=0ahUKEwj6o6LlvuvlAhWLMI8KHesMATgQ_AUIEygC&biw=1280&bih=610
