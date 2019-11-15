@@ -12,3 +12,11 @@ https://youtu.be/iIPy7KcG4fI
 
 Youtube link on xpath navven automation labs:
 https://www.google.com/search?q=xpath+naveen+automation+labs&safe=active&rlz=1C1GCEB_enIN820IN820&sxsrf=ACYBGNT95HdCsyZ8ZSI5JmwVDxrosFkNsg:1573795951847&source=lnms&tbm=vid&sa=X&ved=0ahUKEwj6o6LlvuvlAhWLMI8KHesMATgQ_AUIEygC&biw=1280&bih=610
+
+
+3)Autocomplete Using selenium
+
+https://stackoverflow.com/questions/30863828/how-to-select-a-text-from-the-autocomplete-textbox-using-selenium
+https://stackoverflow.com/questions/46140711/how-to-handle-auto-complete-suggestions-on-amazon-in-using-selenium-webdriver
+https://stackoverflow.com/questions/50577354/how-to-select-value-from-auto-suggest-dropdown-in-selenium
+https://stackoverflow.com/questions/54732786/how-to-select-value-from-the-auto-suggestion-text-box
