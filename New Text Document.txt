@@ -25,3 +25,7 @@ https://stackoverflow.com/questions/54732786/how-to-select-value-from-the-auto-s
 4)Top 10 Selenium Exceptions And How To Handle These (Exact Code)
 
 https://www.softwaretestinghelp.com/exception-handling-framework-selenium-tutorial-19/
+
+5)Serenity json path extraction
+
+https://alexromanov.github.io/2017/04/22/serenity-rest-assured/
