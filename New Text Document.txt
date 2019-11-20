@@ -20,3 +20,8 @@ https://stackoverflow.com/questions/30863828/how-to-select-a-text-from-the-autoc
 https://stackoverflow.com/questions/46140711/how-to-handle-auto-complete-suggestions-on-amazon-in-using-selenium-webdriver
 https://stackoverflow.com/questions/50577354/how-to-select-value-from-auto-suggest-dropdown-in-selenium
 https://stackoverflow.com/questions/54732786/how-to-select-value-from-the-auto-suggestion-text-box
+
+
+4)Top 10 Selenium Exceptions And How To Handle These (Exact Code)
+
+https://www.softwaretestinghelp.com/exception-handling-framework-selenium-tutorial-19/
