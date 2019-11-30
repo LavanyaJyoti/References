@@ -29,3 +29,10 @@ https://www.softwaretestinghelp.com/exception-handling-framework-selenium-tutori
 5)Serenity json path extraction
 
 https://alexromanov.github.io/2017/04/22/serenity-rest-assured/
+
+6)Complete java studty material links:
+
+https://www.softwaretestinghelp.com/core-java-interview-questions/
+https://www.edureka.co/blog/interview-questions/java-interview-questions/
+https://www.journaldev.com/2366/core-java-interview-questions-and-answers
+https://www.javatpoint.com/inheritance-in-java
