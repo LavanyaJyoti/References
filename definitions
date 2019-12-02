@@ -1,0 +1,5 @@
+Diff b/w collection and collections
+
+Collection is an interface containing List, Set and Queue.
+
+Collections is a class containing useful methods like Collections.sort() and Collections.synchronizedlist(), etc.
