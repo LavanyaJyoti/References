@@ -1,0 +1,7 @@
+Example for xpath and css selector:
+
+CSS Selector:
+input#reg_username
+
+Xpath:
+//*[@id="reg_username"]
