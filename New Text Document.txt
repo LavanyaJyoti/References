@@ -42,3 +42,7 @@ https://www.javatpoint.com/inheritance-in-java
 https://www.softwaretestinghelp.com/java-coding-interview-programs/
 
 https://javaconceptoftheday.com/java-interview-programs-with-solutions/
+
+8)Cucumber References
+
+https://cucumber.io/docs/gherkin/reference/
