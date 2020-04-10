@@ -3,6 +3,7 @@ Array:
 2.Count occurrences of each element in an array
 3.Reverse an array
 4.Print Floyd’s Triangle
+5.Sum of elements in array
 =============================================================
 Number:
 1.Fibonacci series
@@ -15,9 +16,8 @@ Number:
 8.Find odd and even number
 9.GCD 
 10.LCM
-11.Sum of elements in array
+11.Sum didgits of numbers
 12.Amstrong
-13.Sum didgits of numbers
 ==============================================================
 String:
 1.Reverse a String
